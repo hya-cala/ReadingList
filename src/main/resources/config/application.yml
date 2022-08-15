@@ -1,0 +1,11 @@
+spring:
+  profiles:
+    active: dev
+  thymeleaf:
+    mode: HTML
+
+book:
+  name: And Then There Were None
+  author: Agatha Christie
+  description: Amazing story!
+  status: 1

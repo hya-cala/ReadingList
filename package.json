@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  },
+  "scripts": {
+    "betterer": "betterer"
+  },
+  "devDependencies": {
+    "@betterer/cli": "^5.3.7",
+    "typescript": "^4"
+  }
+}
